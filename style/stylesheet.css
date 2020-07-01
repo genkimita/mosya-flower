@@ -7,12 +7,15 @@
 
 html {
   width:100%;
+  height:100%;
 }
 
 head {}
 
 header {
-  background-image: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) center center / cover no-repeat fixed;
+  width:100%;
+  height:100%;
+  background-image: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg);
 }
 .top {
   text-align: center;
