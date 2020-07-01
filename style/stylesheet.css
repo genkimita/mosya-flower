@@ -10,11 +10,12 @@ html {}
 head {}
 
 header {
-  width:100%;
-  background: url(image/bg_header_pink.jpg);
+
 }
 .top {
   text-align: center;
+  width:100%;
+  background: url(image/bg_header_pink.jpg);
 }
 img.top-logo {
   width:210px;
