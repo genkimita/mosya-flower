@@ -15,7 +15,7 @@ header {
 .top {
   text-align: center;
   width:100%;
-  background: url(image/bg_header_pink.jpg);
+  background-image:url(image/bg_header_pink.jpg);
 }
 img.top-logo {
   width:210px;
@@ -57,7 +57,7 @@ product {
 .product-box-like-text {
   margin-left: auto;
   margin-right: auto;
-  width:;
+  width:80%;
 }
 
 .order {
