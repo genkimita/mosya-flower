@@ -11,7 +11,7 @@ head {}
 
 header {
   width:100%;
-  background: url(image/bg_header_pink.jpg) center center / cover no-repeat fixed;
+  background: url(image/bg_header_pink.jpg);
 }
 .top {
   text-align: center;
