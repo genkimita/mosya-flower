@@ -43,7 +43,7 @@ img.google-banner {
   padding-right:5px;
 }
 .product-box-post {
-  background: url(image/product-post.jpg.jpg) center center / cover no-repeat fixed;
+  background: url(image/product-post.jpg.jpg);
 }
 
 .top-reference {
@@ -59,7 +59,7 @@ product {
   width:33.33%;
 }
 .product-box-like {
-  background: url(background-photo.jpg) center center / cover no-repeat fixed;
+  background: url(background-photo.jpg);
 }
 .product-box-like-text {
   margin-left: auto;
@@ -67,7 +67,7 @@ product {
   width:80%;
 }
 .product-box-post {
-  background: url(image/product-post.jpg) center center / cover no-repeat fixed;
+  background: url(image/product-post.jpg);
 }
 .product-box-post-text {
   margin-left: auto;
@@ -75,7 +75,7 @@ product {
   width:80%;
 }
 .product-box-decorate {
-  background: url(image/product-decorate.jpg) center center / cover no-repeat fixed;
+  background: url(image/product-decorate.jpg);
 }
 .product-box-decorate-text {
   margin-left: auto;
