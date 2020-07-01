@@ -11,8 +11,9 @@ head {}
 
 header {
   width:100%;
-  background-image:url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg);
+  background:url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg);
   background-size: cover;
+
 }
 .top {
   text-align: center;
