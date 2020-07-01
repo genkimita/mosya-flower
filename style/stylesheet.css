@@ -84,18 +84,53 @@ product {
 }
 
 
-
 .order {
   width:100%;
   background: url(image/bg_header_pink.jpg);
 }
-
-
-
-
-
-
-
+.order-boxgate {
+  display: flex;
+}
+.order-box {
+  width:50%;
+}
+.order-box-trial {
+  background-color:rgb(245, 245, 245);
+  text-align: center;
+}
+.order-box-trial h1{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
+.order-box-trial h2{
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+}
+.order-box-trial h3{
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 32px;
+}
+.order-box-trial h3 span{
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+}
+.order-box-trial h4{
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
+}
+.order-box-pace {
+  text-align: center;
+}
+.order-box-pace h1{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
 
 
 
