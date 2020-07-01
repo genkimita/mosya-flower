@@ -1,44 +1,42 @@
-<!DOCTYPE html>
-<html>
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-weight: normal;
+}
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>模写＠FLOWER｜かわいいが届くお花便</title>
-  <link rel="stylesheet" href="style/stylesheet.css" type="text/css">
-  <link rel="stylesheet" href="style/responsive.css">
+html {}
 
-</head>
+head {}
 
-<header>
-  <div class="top">
-    <img  class="top-logo" src="image/header_logo-0dbc9cb7c037472d3bf71fde0c1d3efd708c2c2547e9ed3e420051ca826cdad8.png" alt="Flower" >
-    <div class="top-sns-box">
-      <img  class="app-banner" src="image/Badge_Appstore-9f3fcecf66049829e600e6a1299fa1671b7c66c829f4a2a34ffd43ce946a71d7.png" alt="app" href="">
-      <img  class="google-banner" src="image/Badge_Googleplaystore-8a4acc6f065bfdaafb2029998f0a464d0ac4571b2b89210218c71e1ae4c8078a.png" alt="google" href="">
-    </div>
-    <div class="top-reference">
-      <p class="top-reference-text">* 北海道、沖縄、離島エリアは現在対象外です</p>
-    </div>
-  </div>
-</header>
-
-<body></body>
-
-
-
-<footer></footer>
-
-
-
-
-
-
-
-
-
-
-
-
-
-</html>
+header {
+  height:100%;
+  height:838px;
+  background: url(image/bg_header_pink.jpg) center center / cover no-repeat fixed;
+}
+.top {
+}
+img.top-logo {
+  width:210px;
+  height:170px;
+}
+.top-logo {
+}
+.top-sns-box {
+  display: flex;
+}
+img.app-banner {
+  width:165px;
+  height:50px;
+  padding-left:5px;
+  padding-right:5px;
+}
+img.google-banner {
+  width:165px;
+  height:50px;
+  padding-left:5px;
+  padding-right:5px;
+}
+.top-reference {
+  text-align: center;
+}
