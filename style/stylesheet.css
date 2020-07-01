@@ -5,7 +5,9 @@
   font-weight: normal;
 }
 
-html {}
+html {
+  width:100%;
+}
 
 head {}
 
