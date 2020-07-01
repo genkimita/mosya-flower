@@ -42,7 +42,8 @@ img.google-banner {
   text-align: center;
 }
 
-product {}
+product {
+}
 .product-boxgate {
   display: flex;
 }
@@ -59,7 +60,10 @@ product {}
   width:;
 }
 
-
+.order {
+  width:100%;
+  background: url(image/bg_header_pink.jpg);
+}
 
 
 
