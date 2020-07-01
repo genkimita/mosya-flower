@@ -16,6 +16,7 @@ header {
   height:100%;
   background-image: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg);
   background-size: contain;
+  background-repeat: no-repeat;
 }
 .top {
   text-align: center;
@@ -31,7 +32,7 @@ img.top-logo {
   display: flex;
   margin-left: auto;
   margin-right: auto;
-  width:30%;
+  width:50%;
 }
 img.app-banner {
   width:165px;
@@ -46,7 +47,9 @@ img.google-banner {
   padding-right:5px;
 }
 .product-box-post {
-  background: url(image/product-post.jpg.jpg);
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-post.jpg.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .top-reference {
@@ -65,8 +68,9 @@ product {
 .product-box-like {
   width:100%;
   height:100%;
-  background: url(background-photo.jpg);
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/background-photo.jpg);
   background-size: contain;
+  background-repeat: no-repeat;
 }
 .product-box-like-text {
   margin-left: auto;
@@ -76,8 +80,9 @@ product {
 .product-box-post {
   width:100%;
   height:100%;
-  background: url(image/product-post.jpg);
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-post.jpg);
   background-size: contain;
+  background-repeat: no-repeat;
 }
 .product-box-post-text {
   margin-left: auto;
@@ -87,8 +92,9 @@ product {
 .product-box-decorate {
   width:100%;
   height:100%;
-  background: url(image/product-decorate.jpg);
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-decorate.jpg);
   background-size: contain;
+  background-repeat: no-repeat;
 }
 .product-box-decorate-text {
   margin-left: auto;
@@ -109,7 +115,9 @@ product {
 
 .order {
   width:100%;
-  background: url(image/bg_header_pink.jpg);
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/bg_header_pink.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 .order-boxgate {
   display: flex;
