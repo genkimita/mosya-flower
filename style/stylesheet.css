@@ -12,7 +12,7 @@ html {
 head {}
 
 header {
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) center center / cover no-repeat fixed;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) center center / contain no-repeat fixed;
 }
 .top {
   text-align: center;
