@@ -14,6 +14,7 @@ header {
   background: url(image/bg_header_pink.jpg) center center / cover no-repeat fixed;
 }
 .top {
+  text-align: center;
 }
 img.top-logo {
   width:210px;
@@ -39,3 +40,36 @@ img.google-banner {
 .top-reference {
   text-align: center;
 }
+
+product {}
+.product-boxgate {
+  display: flex;
+}
+.product-box {
+  width:33.33%;
+}
+.product-box-like {
+  background: url(background-photo.jpg) center center / cover no-repeat fixed;
+  margin-left: auto;margin-right: auto;width:%;
+}
+.product-box-like-text {
+  margin-left: auto;
+  margin-right: auto;
+  width:;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. {}
