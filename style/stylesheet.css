@@ -29,6 +29,9 @@ img.top-logo {
 }
 .top-sns-box {
   display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width:30%;
 }
 img.app-banner {
   width:165px;
