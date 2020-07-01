@@ -8,3 +8,9 @@
 html {}
 
 head {}
+
+face {
+  width:100%;
+  height:100%;
+  background: url(image/bg_header_pink-4704d42ed44908fb061e80afc515a93ab2fcbfd605c2580de486a4d980b2115a.jpg);
+}
