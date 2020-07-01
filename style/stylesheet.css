@@ -40,6 +40,10 @@ img.google-banner {
   padding-left:5px;
   padding-right:5px;
 }
+.product-box-post {
+  background: url(image/product-post.jpg.jpg) center center / cover no-repeat fixed;
+}
+
 .top-reference {
   text-align: center;
 }
@@ -54,13 +58,30 @@ product {
 }
 .product-box-like {
   background: url(background-photo.jpg) center center / cover no-repeat fixed;
-  margin-left: auto;margin-right: auto;width:%;
 }
 .product-box-like-text {
   margin-left: auto;
   margin-right: auto;
   width:80%;
 }
+.product-box-post {
+  background: url(image/product-post.jpg) center center / cover no-repeat fixed;
+}
+.product-box-post-text {
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+}
+.product-box-decorate {
+  background: url(image/product-decorate.jpg) center center / cover no-repeat fixed;
+}
+.product-box-decorate-text {
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+}
+
+
 
 .order {
   width:100%;
