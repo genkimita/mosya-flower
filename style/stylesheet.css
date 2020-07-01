@@ -12,7 +12,7 @@ head {}
 header {
   height:100%;
   background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/bg_header_pink-4704d42ed44908fb061e80afc515a93ab2fcbfd605c2580de486a4d980b2115a.jpg) center center / cover no-repeat fixed;
-  background-size: cover;
+
 }
 .top {
 }
