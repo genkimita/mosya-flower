@@ -50,12 +50,10 @@ img.google-banner {
 }
 .product-box {
   width:33.33%;
+  height:670px;
 }
 .product-box-like {
-  height:670px;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/background-photo.jpg);
-  background-size: contain;
-  background-repeat: no-repeat;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/background-photo.jpg) left top / auto 100% no-repeat;
 }
 .product-box-like-text {
   width:23em;
@@ -63,24 +61,18 @@ img.google-banner {
   margin-right: auto;
 }
 .product-box-post {
-  height:670px;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-post.jpg);
-  background-size: contain;
-  background-repeat: no-repeat;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-post.jpg) left top / auto 100% no-repeat;
 }
 .product-box-post-text {
-  width:30em;
+  width:23em;
   margin-left: auto;
   margin-right: auto;
 }
 .product-box-decorate {
-  height:670px;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-decorate.jpg);
-  background-size: contain;
-  background-repeat: no-repeat;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-decorate.jpg) left top / auto 100% no-repeat;
 }
 .product-box-decorate-text {
-  width:30em;
+  width:23em;
   margin-left: auto;
   margin-right;
 }
@@ -98,15 +90,14 @@ img.google-banner {
 
 .order {
   width:100%;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/bg_header_pink.jpg);
-  background-size: contain;
-  background-repeat: no-repeat;
+  height:580px;
 }
 .order-boxgate {
   display: flex;
 }
 .order-box {
   width:50%;
+
 }
 .order-box-trial {
   background-color:rgb(245, 245, 245);
@@ -116,6 +107,13 @@ img.google-banner {
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
+}
+.order-box-trial-banner {
+  width:320px;
+  height:230px;
+  background: url(image/price_bouquetimg-9d58e59120ae586337c3b91a2f531ad14e7b05dc3d3ec63ab0ee68b41c8852fb.png) left top / auto 100% no-repeat;
+  margin-left: auto;
+  margin-right: auto;
 }
 .order-box-trial h2{
   font-weight: 700;
