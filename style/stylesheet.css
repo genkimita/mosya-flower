@@ -64,12 +64,11 @@ img.google-banner {
   display: flex;
 }
 .product-box {
-  width:33.33%;
+  width:33%;
   height:100%;
 }
 .product-box-like {
-  width:100%;
-  height:100%;
+
   background: url(image/product-like.jpg);
   background-position: center;
 	background-repeat: no-repeat;
@@ -81,8 +80,7 @@ img.google-banner {
   margin-right: auto;
 }
 .product-box-post {
-  width:100%;
-  height:100%;
+
   background: url(image/product-post.jpg);
   background-position: center;
 	background-repeat: no-repeat;
@@ -94,7 +92,7 @@ img.google-banner {
   margin-right: auto;
 }
 .product-box-decorate {
-  width:100%;
+  
   height:100%;
   background: url(image/product-decorate.jpg);
   background-position: center;
@@ -141,7 +139,10 @@ img.google-banner {
 .order-box-trial-banner {
   width:320px;
   height:230px;
-  background: url(image/price_bouquetimg-9d58e59120ae586337c3b91a2f531ad14e7b05dc3d3ec63ab0ee68b41c8852fb.png) left top / auto 100% no-repeat;
+  background: url(image/syokaimuryou.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   margin-left: auto;
   margin-right: auto;
 }
