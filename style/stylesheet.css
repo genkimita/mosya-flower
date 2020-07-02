@@ -12,11 +12,9 @@ head {}
 
 .header {
   text-align: center;
-  
+
   height:840px;
   background-image: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg);
-  background-size: contain;
-  background-repeat: no-repeat;
 }
 .top {
 }
