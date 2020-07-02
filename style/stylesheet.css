@@ -59,9 +59,9 @@ img.google-banner {
   background-repeat: no-repeat;
 }
 .product-box-like-text {
+  width:30em;
   margin-left: auto;
   margin-right: auto;
-  width:80%;
 }
 .product-box-post {
   height:670px;
@@ -70,9 +70,9 @@ img.google-banner {
   background-repeat: no-repeat;
 }
 .product-box-post-text {
+  width:30em;
   margin-left: auto;
   margin-right: auto;
-  width:80%;
 }
 .product-box-decorate {
   height:670px;
@@ -81,9 +81,9 @@ img.google-banner {
   background-repeat: no-repeat;
 }
 .product-box-decorate-text {
+  width:30em;
   margin-left: auto;
-  margin-right: auto;
-  width:80%;
+  margin-right;
 }
 .product-box h1 {
   font-weight: 400;
