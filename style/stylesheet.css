@@ -115,6 +115,10 @@ img.google-banner {
   margin-left: auto;
   margin-right: auto;
 }
+img.order-box-trial-banner {
+  width:130px;
+  height:50px;
+}
 .order-box-trial h2{
   font-weight: 700;
   font-size: 15px;
