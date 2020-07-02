@@ -61,7 +61,10 @@ img.google-banner {
   height:670px;
 }
 .product-box-like {
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/background-photo.jpg) left top / auto 100% no-repeat;
+  background: url(image/product-like.jpg);
+  background-position: left top;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 }
 .product-box-like-text {
   width:23em;
