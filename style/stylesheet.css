@@ -11,12 +11,14 @@ html {
 head {}
 
 .header {
-  text-align: center;
-
   height:840px;
   background-image: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg);
+  background-position: left top;
+	background-repeat: no-repeat;
+	background-size: auto 100%;
 }
 .top {
+  text-align: center;
 }
 img.top-logo {
   width:210px;
