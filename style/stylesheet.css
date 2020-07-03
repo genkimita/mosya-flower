@@ -162,7 +162,7 @@ body {
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
-img.order-box-trial-banner {
+.order-box-trial-banner img{
   width:130px;
   height:50px;
 }
