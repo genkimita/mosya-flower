@@ -237,17 +237,32 @@ img.order-pace-image {
 .price-box-text h1{}
   .price-box-text h2{}
     .price-box-text h3{}
-      .price-box-text-example {
+    .price-box-text-example {
         display: flex;
         padding-bottom:20px;
       }
-      .price-box-text-example img{
+      .price-box-text-example-bell {
         width:100px;
         height:120px;
         padding-left:27px;
         padding-right:27px;
       }
-      .price-box-text-detail-syokai {
+      .price-box-text-example-moon {
+        width:100px;
+        height:120px;
+        padding-left:27px;
+        padding-right:27px;
+      }
+      .price-box-text-example-candle {
+        width:100px;
+        height:120px;
+        padding-left:27px;
+        padding-right:27px;
+      }
+    .price-box-text-detail {
+      display: flex;
+    }
+    .price-box-text-detail-syokai {
         float:left;
         border:2px solid #000000 ;
         width:100px;
@@ -258,7 +273,6 @@ img.order-pace-image {
         width:200px;
         height:60px;
       }
-      .price-box-text-detail {}
       .price-box-text h4{
         float:left;
       }
