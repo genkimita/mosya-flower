@@ -27,11 +27,11 @@ body {
 	background-size: 100% 100%;
 
 }
+.top-logo {
+}
 .top-logo img{
   width:210px;
   height:170px;
-}
-.top-logo {
 }
 .top-sns-box {
   width:100%;
@@ -39,20 +39,26 @@ body {
   justify-content: center;
   position: relative;
 }
+.app-banner {
+  padding-left:5px;
+  padding-right:5px;
+}
 .app-banner img{
   width:165px;
   height:50px;
+}
+.google-banner {
   padding-left:5px;
   padding-right:5px;
 }
 .google-banner img{
   width:165px;
   height:50px;
-  padding-left:5px;
-  padding-right:5px;
 }
 .top-reference {
 }
+
+
 
 .product {
   width:100%;
