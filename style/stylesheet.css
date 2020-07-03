@@ -95,11 +95,8 @@ body {
   margin-right: auto;
 }
 .product-box-post {
-  width:100%;
   background: url(image/product-post.jpg);
-  background-position: center;
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
+  background-size: cover;
 }
 .product-box-post-text {
   width:23em;
@@ -107,12 +104,8 @@ body {
   margin-right: auto;
 }
 .product-box-decorate {
-  width:100%;
-  height:100%;
   background: url(image/product-decorate.jpg);
-  background-position: center;
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
+  background-size: cover;
 }
 .product-box-decorate-text {
   width:23em;
