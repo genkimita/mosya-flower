@@ -26,7 +26,7 @@ body {
   width:66%;
   height:66%;
   background-color:rgb(218, 175, 176);
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) left top / auto 100% no-repeat;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) left top / 100% 100% no-repeat;
 }
 .top-logo {
   padding-bottom:330px;
