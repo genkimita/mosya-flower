@@ -13,12 +13,16 @@ body {
   width:100%;
 }
 .header {
+  display:table;
   width:100%;
   height:840px;
   text-align: center;
   color:#ffffff;
+
 }
 .header-top {
+  display: table-cell;
+  vertical-align : middle;
   width:100%;
   height:100%;
   background-color:rgb(218, 175, 176);
@@ -28,9 +32,7 @@ body {
 	background-size: 100% 100%;
 }
 .top-logo {
-}
-.top-logo img{
-
+  padding-bottom:330px;
 }
 .top-logo-image {
   width:210px;
@@ -48,10 +50,11 @@ body {
   display: flex;
   justify-content: center;
   position: relative;
+  padding-bottom:40px;
 }
 .app-banner {
-  padding-left:5px;
-  padding-right:5px;
+  padding-left:8px;
+  padding-right:8px;
 }
 .app-banner img{
   width:165px;
