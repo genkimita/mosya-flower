@@ -293,6 +293,7 @@ img.order-pace-image {
 .footer {
   width:100%;
   background-color:rgb(63, 68, 73);
+  text-align: center;
 }
 .footer-content {
   padding-bottom:180px;
@@ -300,6 +301,9 @@ img.order-pace-image {
 }
 .footer-box {
   display: flex;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
 }
 .footer-box img{
   width:55px;
