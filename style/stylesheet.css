@@ -87,7 +87,7 @@ body {
   height:100%;
 }
 .product-box-like {
-
+  width:100%;
   background: url(image/product-like.jpg);
   background-position: center;
 	background-repeat: no-repeat;
@@ -99,7 +99,7 @@ body {
   margin-right: auto;
 }
 .product-box-post {
-
+  width:100%;
   background: url(image/product-post.jpg);
   background-position: center;
 	background-repeat: no-repeat;
@@ -111,7 +111,7 @@ body {
   margin-right: auto;
 }
 .product-box-decorate {
-
+  width:100%;
   height:100%;
   background: url(image/product-decorate.jpg);
   background-position: center;
