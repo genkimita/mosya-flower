@@ -224,6 +224,7 @@ img.order-pace-image {
 
 
 .price {
+  background-color:rgb(230, 227, 222);
 }
 .price-boxgate {
   display: flex;
