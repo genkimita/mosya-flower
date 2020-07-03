@@ -86,11 +86,8 @@ body {
   height:100%;
 }
 .product-box-like {
-  width:100%;
   background: url(image/product-like.jpg);
-  background-position: center;
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
+  background-size: cover;
 }
 .product-box-like-text {
   width:23em;
