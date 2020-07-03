@@ -159,12 +159,12 @@ body {
   height:230px;
   background: url(image/trial-banner.png);
   background-position: left top;
-  background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 .order-box-trial-banner img{
   width:130px;
   height:50px;
+  z-index:10;
 }
 .order-box-trial h2{
   font-weight: 700;
