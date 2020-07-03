@@ -234,8 +234,18 @@ img.order-pace-image {
   width:100%;
   background-color:rgb(63, 68, 73);
 }
+.footer-content {
+  padding-bottom:180px;
+}
 .footer-box {
   display: flex;
+}
+.footer-box img{
+  width:55px;
+  height:55px;
+}
+.footer-copyright {
+  padding-bottom:90px;
 }
 
 
