@@ -80,6 +80,8 @@ body {
   width:100%;
   height:100%;
   display: flex;
+  color:#ffffff;
+  padding-top:70px;
 }
 .product-box {
   width:33%;
