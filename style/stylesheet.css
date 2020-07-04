@@ -79,7 +79,6 @@ body {
   height:100%;
   display: flex;
   color:#ffffff;
-  padding-top:70px;
 }
 .product-box {
   width:33%;
@@ -88,32 +87,35 @@ body {
 .product-box-like {
   width:100%;
   height:100%;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-like.jpg) left top / 100% auto no-repeat;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-like.jpg) left top / auto 100% no-repeat;
 }
 .product-box-like-text {
-  width:23em;
+  width:85%;
   margin-left: auto;
   margin-right: auto;
+  padding-top:70px;
 }
 .product-box-post {
   width:100%;
   height:100%;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-post.jpg) left top / 100% auto no-repeat;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-post.jpg) left top / auto 100% no-repeat;
 }
 .product-box-post-text {
-  width:23em;
+  width:85%;
   margin-left: auto;
   margin-right: auto;
+  padding-top:70px;
 }
 .product-box-decorate {
   width:100%;
   height:100%;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-decorate.jpg) left top / 100% auto no-repeat;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/product-decorate.jpg) left top / auto 100% no-repeat;
 }
 .product-box-decorate-text {
-  width:23em;
+  width:85%;
   margin-left: auto;
   margin-right;
+  padding-top:70px;
 }
 .product-box h1 {
   font-weight: 400;
