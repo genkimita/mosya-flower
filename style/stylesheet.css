@@ -315,8 +315,7 @@ img.order-pace-image {
   width:100%;
   height:810px;
   background-color:rgb(230, 227, 222);
-  background: url(○) left top / auto 100% no-repeat;
-
+  background: url(image/price-box-gate.jpg) center / auto 100% no-repeat;
 }
 .price-boxgate {
   width:100%;
@@ -328,57 +327,64 @@ img.order-pace-image {
   height:100%;
 }
 .price-box-text {
-  width:50%;
+  width:400px;
   height:100%;
 }
-.price-box-text h1{}
-  .price-box-text h2{}
-    .price-box-text h3{}
-    .price-box-text-example {
-        display: flex;
-        padding-bottom:20px;
-      }
-      .price-box-text-example-bell {
-        width:100px;
-        height:120px;
-        padding-left:27px;
-        padding-right:27px;
-      }
-      .price-box-text-example-moon {
-        width:100px;
-        height:120px;
-        padding-left:27px;
-        padding-right:27px;
-      }
-      .price-box-text-example-candle {
-        width:100px;
-        height:120px;
-        padding-left:27px;
-        padding-right:27px;
-      }
-    .price-box-text-detail {
-      display: flex;
-    }
-    .price-box-text-detail-syokai {
-        float:left;
-        border:2px solid #000000 ;
-        width:100px;
-        height:60px;
-      }
-      .price-box-text-detail-regular {
-        float:left;
-        width:200px;
-        height:60px;
-      }
-      .price-box-text h4{
-        float:left;
-      }
-        .price-box-text {}
-          .price-box-text {}
-.price-box-image {
-  background: url(image/price-box-gate.jpg) left top / 100% auto no-repeat;
-
+.price-box-text h1{
+  font-weight: ;
+  font-size: px;
+  line-height: px;
 }
+.price-box-text h2{}
+.price-box-text h3{}
+.price-box-text-example {
+  display: flex;
+  padding-bottom:20px;
+}
+.price-box-text-example-bell {
+  width:100px;
+  height:120px;
+  padding-left:27px;
+  padding-right:27px;
+  background: url(image/-bell.jpg) center / auto 100% no-repeat;
+  background-size: cover;
+}
+.price-box-text-example-moon {
+  width:100px;
+  height:120px;
+  padding-left:27px;
+  padding-right:27px;
+  background: url(image/-moon.jpg) center / auto 100% no-repeat;
+  background-size: cover;
+}
+.price-box-text-example-candle {
+  width:100px;
+  height:120px;
+  padding-left:27px;
+  padding-right:27px;
+  background: url(image/-candle.jpg) center / auto 100% no-repeat;
+  background-size: cover;
+}
+.price-box-text-detail {
+  display: flex;
+}
+.price-box-text-detail-syokai {
+  float:left;
+  border:2px solid #000000 ;
+  width:100px;
+  height:60px; 
+}
+.price-box-text-detail-regular {
+  float:left;
+  width:200px;
+  height:60px;
+}
+.price-box-text h4{
+  float:left;
+}
+.price-box-text {
+}
+
 
 
 .credit {
