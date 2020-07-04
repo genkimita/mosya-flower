@@ -507,14 +507,19 @@ vertical-align : middle;
 }
 .footer-content {
   width:100%;
+  height:100%;
+  padding-top:65px;
   padding-bottom:180px;
   color:#ffffff;
-  margin: 0 auto;
 }
 .footer-box {
+  width:100%;
+  height:100%;
   display: flex;
 }
 .footer-box h1,h2,h3,h4,h5,h6{
+  width:12.5%;
+  height:100%;
   font-weight: 400;
   font-size: 14px;
   line-height: 22px;
@@ -526,7 +531,7 @@ vertical-align : middle;
   height:55px;
 }
 .footer-copyright {
-  padding-bottom:90px;
+  padding-bottom:60px;
 }
 .footer-copyright {
   color:rgb(139, 142, 146);
