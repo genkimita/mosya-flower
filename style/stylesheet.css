@@ -78,11 +78,11 @@ body {
   height:100%;
   display: flex;
   color:#ffffff;
+  padding-top:70px;
 }
 .product-box {
   width:33%;
   height:100%;
-  padding-top:70px;
 }
 .product-box-like {
   width:100%;
