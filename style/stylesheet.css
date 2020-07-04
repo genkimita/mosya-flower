@@ -246,8 +246,6 @@ vertical-align : middle;
 .about {
   width:100%;
   height:730px;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/about.jpg) center / auto 100% no-repeat;
-  background-size: cover;
 }
 .about-boxgate {
   width:100%;
@@ -257,7 +255,11 @@ vertical-align : middle;
 .about-box {
   width:50%;
   height:100%;
-  display:table;
+}
+.about-box-image {
+  width:100%;
+  height:100%;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/about.jpg) center / 100% 100% no-repeat;
 }
 .about-box-text {
   width:100%;
@@ -266,7 +268,7 @@ vertical-align : middle;
   display: table-cell;
   vertical-align : middle;
 }
-.about-box-text h1,h2,h3,h4,h5,h6,h7{
+.about-box-text h1,h2,h3{
   width:400px;
 }
 .about-box-text h1{
@@ -287,30 +289,7 @@ vertical-align : middle;
   line-height: 24px;
   padding-bottom:24px;
 }
-.about-box-text h4{
-  font-weight: 400;
-  font-size: 22px;
-  line-height: 35px;
-  padding-bottom:12px;
-}
-.about-box-text h5{
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  padding-bottom:24px;
-}
-.about-box-text h6{
-  font-weight: 400;
-  font-size: 22px;
-  line-height: 35px;
-  padding-bottom:12px;
-}
-.about-box-text h7 {
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  padding-bottom:24px;
-}
+
 
 
 
