@@ -18,14 +18,13 @@ body {
   height:100%;
   text-align: center;
   color:#ffffff;
-  background-color:rgb(218, 175, 176);
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) center / 100% 100% no-repeat;
 }
 .header-top {
   display: table-cell;
   vertical-align : middle;
   width:66%;
   height:66%;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) center / 100% 100% no-repeat;
 }
 .top-logo {
   padding-bottom:330px;
@@ -131,6 +130,7 @@ body {
 
 .order {
   width:100%;
+  height:580px;
 }
 .order-boxgate {
   display: flex;
@@ -203,16 +203,55 @@ img.order-pace-image {
   height:730px;
   background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/about.jpg);
 }
-.about-box {
-  text-align: center;
+.about-boxgate {
+  width:100%;
+  display: flex;
 }
-.about-box h1{}
-.about-box h2{}
-.about-box h3{}
-.about-box h4{}
-.about-box h5{}
-.about-box h6{}
-.about-box h7 {}
+.about-box {
+  width:50%;
+  display:table;
+}
+.about-box-text {
+  width:50%;
+  text-align: center;
+  display: table-cell;
+  vertical-align : middle;
+}
+.about-box h1{
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 42px;
+}
+.about-box h2{
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 35px;
+}
+.about-box h3{
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+}
+.about-box h4{
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 35px;
+}
+.about-box h5{
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+}
+.about-box h6{
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 35px;
+}
+.about-box h7 {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+}
 
 
 
