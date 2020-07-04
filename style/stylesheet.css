@@ -395,9 +395,7 @@ img.order-pace-image {
   width:100%;
   height:420px;
   background-color:rgb(238, 224, 197);
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/atmosphere.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/atmosphere.jpg) center / auto 100% no-repeat;
 }
 
 
