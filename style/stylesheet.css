@@ -186,9 +186,10 @@ body {
 }
 .order-box-trial-banner {
   width:320px;
+  height:320px;
   background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/trial-banner.png);
   background-position: left top;
-  background-size: 100% auto;
+  background-size: 100% 100%;
 }
 .order-box-trial-banner img{
   width:130px;
@@ -229,6 +230,7 @@ body {
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
+  text-align: center;
 }
 img.order-pace-image {
   width:200px;
@@ -242,6 +244,7 @@ img.order-pace-image {
   width:100%;
   height:730px;
   background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/about.jpg) center / auto 100% no-repeat;
+  background-size: cover;
 }
 .about-boxgate {
   width:100%;
@@ -261,7 +264,7 @@ img.order-pace-image {
   vertical-align : middle;
 }
 .about-box-text h1,h2,h3,h4,h5,h6,h7{
-  width:50%;
+  width:400px;
 }
 .about-box-text h1{
   font-weight: 400;
