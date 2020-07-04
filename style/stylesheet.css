@@ -394,38 +394,73 @@ vertical-align : middle;
 }
 .credit-box {
   width:33%;
-  float:left;
+  display: flex;
+  text-align: center;
 }
 .credit-box-easy {
 }
 .credit-box-easy-image {
   background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/credit-easy.png);
   background-size: cover;
-  width:35px;
-  height:45px;
+  width:60px;
+  height:80px;
   margin-left: auto;
   margin-right: auto;
+}
+.credit-box-easy h1{
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 35px;
+}
+.credit-box-easy h2 {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
 }
 .credit-box-app {
 }
 .credit-box-app-image {
   background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/credit-app.png);
   background-size: cover;
-  width:35px;
-  height:45px;
+  width:60px;
+  height:80px;
   margin-left: auto;
   margin-right: auto;
 }
+.credit-box-app h1{
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 35px;
+}
+.credit-box-app h2 {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+
 .credit-box-warranty {
 }
 .credit-box-warranty-image {
   background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/credit-warranty.png);
   background-size: cover;
-  width:35px;
-  height:45px;
+  width:60px;
+  height:80px;
   margin-left: auto;
   margin-right: auto;
 }
+.credit-box-warranty h1{
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 35px;
+}
+.credit-box-warranty h2 {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+
+
 
 .atmosphere {
   width:100%;
