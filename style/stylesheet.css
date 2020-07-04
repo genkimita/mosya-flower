@@ -26,7 +26,7 @@ body {
   vertical-align : middle;
   width:66%;
   height:66%;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) center /  no-repeat;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) center / 100% 100% no-repeat;
 }
 .top-logo {
   padding-bottom:330px;
