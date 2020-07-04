@@ -418,6 +418,8 @@ img.order-pace-image {
   font-weight: 400;
   font-size: 14px;
   line-height: 22px;
+  padding-left:65px;
+  padding-right:65px;
 }
 .footer-box img{
   width:55px;
