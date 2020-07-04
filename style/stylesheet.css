@@ -141,14 +141,16 @@ body {
 .order-box {
   width:50%;
   height:100%;
-  display:table;
 }
 .order-box-trial {
   background-color:rgb(245, 245, 245);
-  display: table-cell;
-  vertical-align : middle;
   width:50%;
   height:100%;
+  display:table;
+}
+.order-trial-box-inner {
+  display: table-cell;
+  vertical-align : middle;
 }
 .order-box-trial h1{
   font-weight: 400;
@@ -157,15 +159,15 @@ body {
 }
 .order-box-trial-banner {
   width:320px;
-  height:230px;
   background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/trial-banner.png);
   background-position: left top;
-  background-size: 100% 100%;
+  background-size: 100% auto;
 }
 .order-box-trial-banner img{
   width:130px;
   height:50px;
   z-index:10;
+  margin: 0 auto;
 }
 .order-box-trial h2{
   font-weight: 700;
@@ -189,12 +191,12 @@ body {
 }
 .order-box-pace {
   width:50%;
-  display: table-cell;
-  vertical-align : middle;
-  width:50%;
   height:100%;
+  display:table;
 }
 .order-box-pace-inner {
+  display: table-cell;
+  vertical-align : middle;
 }
 .order-box-pace h1{
   font-weight: 400;
@@ -204,6 +206,7 @@ body {
 img.order-pace-image {
   width:200px;
   height:170px;
+  margin: 0 auto;
 }
 
 
