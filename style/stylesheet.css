@@ -80,11 +80,11 @@ body {
   height:100%;
   display: flex;
   color:#ffffff;
-  padding-top:70px;
 }
 .product-box {
   width:33%;
   height:100%;
+  padding-top:70px;
 }
 .product-box-like {
   width:100%;
@@ -138,11 +138,12 @@ body {
 }
 .order-box {
   width:50%;
-
+  display:table;
 }
 .order-box-trial {
   background-color:rgb(245, 245, 245);
-
+  display: table-cell;
+  vertical-align : middle;
 }
 .order-box-trial h1{
   font-weight: 400;
@@ -182,12 +183,11 @@ body {
   line-height: 21px;
 }
 .order-box-pace {
-  display:table;
   width:50%;
-}
-.order-box-pace-inner {
   display: table-cell;
   vertical-align : middle;
+}
+.order-box-pace-inner {
 }
 .order-box-pace h1{
   font-weight: 400;
