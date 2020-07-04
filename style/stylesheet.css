@@ -221,8 +221,8 @@ img.order-pace-image {
   display:table;
 }
 .about-box-text {
-  width:25em;
-  height:100%;
+  width:50%;
+  height:66%;
   text-align: center;
   display: table-cell;
   vertical-align : middle;
@@ -231,36 +231,43 @@ img.order-pace-image {
   font-weight: 400;
   font-size: 26px;
   line-height: 42px;
+  padding-bottom:50px;
 }
 .about-box h2{
   font-weight: 400;
   font-size: 22px;
   line-height: 35px;
+  padding-bottom:12px;
 }
 .about-box h3{
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
+  padding-bottom:24px;
 }
 .about-box h4{
   font-weight: 400;
   font-size: 22px;
   line-height: 35px;
+  padding-bottom:12px;
 }
 .about-box h5{
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
+  padding-bottom:24px;
 }
 .about-box h6{
   font-weight: 400;
   font-size: 22px;
   line-height: 35px;
+  padding-bottom:12px;
 }
 .about-box h7 {
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
+  padding-bottom:24px;
 }
 
 
