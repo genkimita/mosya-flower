@@ -408,10 +408,10 @@ vertical-align : middle;
   text-align: center;
 }
 .credit-boxgate {
+  display: flex;
 }
 .credit-box {
   width:33%;
-  display: flex;
   text-align: center;
 }
 .credit-box-easy {
