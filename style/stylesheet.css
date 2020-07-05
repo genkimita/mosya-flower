@@ -283,7 +283,7 @@ vertical-align : middle;
   display: table-cell;
   vertical-align : middle;
 }
-.about-box-text h1,h2,h3{
+.about-box-text h1,.about-box-text h2,.about-box-text h3{
   width:400px;
 }
 .about-box-text h1{
@@ -531,7 +531,7 @@ vertical-align : middle;
   height:100%;
   display: flex;
 }
-.footer-box h1,h2,h3,h4,h5,h6{
+.footer-box h1,.footer-box h2,.footer-box h3,.footer-box h4,.footer-box h5,.footer-box h6{
   width:12.5%;
   height:100%;
   font-weight: 400;
