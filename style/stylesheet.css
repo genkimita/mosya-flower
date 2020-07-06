@@ -89,7 +89,7 @@ body {
   height:100%;
 }
 .product-box-three {
-  width:auto;
+  width:cover;
   height:100%;
 }
 .product-box-like {
@@ -190,13 +190,13 @@ body {
   background-color:rgb(245, 245, 245);
   width:100%;
   height:100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .order-trial-box-inner {
   width:50%;
   height:100%;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
 }
 .order-box-trial h1{
   font-weight: 400;
