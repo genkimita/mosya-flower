@@ -190,13 +190,14 @@ body {
 .order-box-one {
   width:50%;
   height:100%;
+  display:table;
 }
 .order-box-trial {
   background-color:rgb(245, 245, 245);
   width:100%;
   height:100%;
-  margin-left: auto;
-  margin-right: auto;
+  display: table-cell;
+  vertical-align : middle;
 }
 .order-trial-box-inner {
   width:50%;
