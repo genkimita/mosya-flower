@@ -347,7 +347,8 @@ text-align: center;
   height:100%;
   display: flex;
 }
-.price-box {
+/* 右ブロック */
+.price-box-one {
   width:50%;
   height:100%;
 }
@@ -416,6 +417,7 @@ text-align: center;
   text-align: left;
   width:400px;
 }
+/* 左ブロック */
 .price-box-image {
   background: url(image/price-box-gate.jpg) center / auto 100% no-repeat;
 }
