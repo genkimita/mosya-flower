@@ -429,7 +429,9 @@ text-align: center;
   width:100%;
   height:530px;
 }
+/* 上ブロック */
 .credit-title {
+  padding-top:100px;
 }
 .credit-title p{
   font-weight: 400;
@@ -437,6 +439,7 @@ text-align: center;
   line-height: 42px;
   text-align: center;
 }
+/* 下ブロック */
 .credit-boxgate {
   display: flex;
 }
