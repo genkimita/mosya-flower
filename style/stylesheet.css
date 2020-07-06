@@ -419,7 +419,7 @@ text-align: center;
 }
 /* 左ブロック */
 .price-box-image {
-  background: url(image/price-box-gate.jpg) center / auto 100% no-repeat;
+  background: url(image/price-box-gate.jpg) center / 100% 100% no-repeat;
 }
 
 
