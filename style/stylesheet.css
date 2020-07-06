@@ -527,7 +527,8 @@ text-align: center;
   height:100%;
   display: flex;
 }
-.atmosphere-box {
+/* 左ブロック */
+.atmosphere-box-one {
   width:50%;
   height:100%;
 }
@@ -538,16 +539,23 @@ text-align: center;
   position: relative;
   left: 400px;
 }
+/* 右ブロック */
+.atmosphere-box-two {
+  width:50%;
+  height:100%;
+}
 .atmosphere-logo {
   width:100%;
   padding-top:50px;
-}
-.atmosphere-logo-image {
-  width:125px;
-  background: url(image/atmosphere-logo.png) center / 100% auto no-repeat;
   margin-left: auto;
   margin-right: auto;
-  z-index:10;
+}
+.atmospheret-logo img{
+  width:125px;
+  height:auto;
+  margin-left: auto;
+  margin-right: auto;
+  pointer-events: none;
 }
 .atmospheret-logo h1{
   text-align: center;
