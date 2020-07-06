@@ -306,6 +306,7 @@ text-align: center;
   height:80%;
   display: table-cell;
   vertical-align : middle;
+  text-align: center;
 }
 .about-box-text-inner {
   width:100%;
