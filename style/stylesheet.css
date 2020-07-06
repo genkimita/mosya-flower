@@ -80,8 +80,16 @@ body {
   display: flex;
   color:#ffffff;
 }
-.product-box {
+.product-box-one {
   width:33%;
+  height:100%;
+}
+.product-box-two {
+  width:33%;
+  height:100%;
+}
+.product-box-three {
+  width:auto;
   height:100%;
 }
 .product-box-like {
