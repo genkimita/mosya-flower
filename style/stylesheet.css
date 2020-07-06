@@ -442,6 +442,7 @@ text-align: center;
 /* 下ブロック */
 .credit-boxgate {
   display: flex;
+  padding-top:30px;
 }
 .credit-box {
   width:33%;
@@ -461,6 +462,7 @@ text-align: center;
   font-weight: 400;
   font-size: 22px;
   line-height: 35px;
+  padding-bottom:10px;
 }
 .credit-box-easy h2 {
   font-weight: 400;
@@ -481,6 +483,7 @@ text-align: center;
   font-weight: 400;
   font-size: 22px;
   line-height: 35px;
+  padding-bottom:10px;
 }
 .credit-box-app h2 {
   font-weight: 400;
@@ -502,6 +505,7 @@ text-align: center;
   font-weight: 400;
   font-size: 22px;
   line-height: 35px;
+  padding-bottom:10px;
 }
 .credit-box-warranty h2 {
   font-weight: 400;
