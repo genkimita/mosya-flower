@@ -290,10 +290,9 @@ text-align: center;
   height:100%;
   display:table;
 }
-.about-box-image {/* 空クラス */
-  width:96%;
-  height:96%;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/about.jpg) center / 100% 100% no-repeat;
+.about-box-one img{ /* 空クラス */
+  width:95%;
+  height:95%;
   display: table-cell;
   vertical-align : middle;
 }
@@ -301,18 +300,18 @@ text-align: center;
 .about-box-two {
   width:50%;
   height:100%;
-  display:table;
 }
 .about-box-text {
+  width:100%;
+  height:100%;
+  display:table;
+}
+.about-box-text-inner {
   width:80%;
   height:80%;
   display: table-cell;
   vertical-align : middle;
   text-align: center;
-}
-.about-box-text-inner {
-  width:100%;
-  height:100%;
 }
 .about-box-text-inner h1,.about-box-text-inner h2,.about-box-text-inner h3{
   width:400px;
