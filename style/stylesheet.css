@@ -201,12 +201,10 @@ body {
   align-items: center;/* 真ん中にしたい子の1つ親に */
 }
 .order-box-trial {
-  width:100%;
-  height:100%;
-}
-.order-trial-box-inner {
   width:90%;
   height:50%;
+}
+.order-trial-box-inner {
   text-align: center;
 }
 .order-box-trial-inner h1{
