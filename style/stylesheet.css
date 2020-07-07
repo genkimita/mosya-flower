@@ -354,14 +354,14 @@ text-align: center;
 }
 /* 左ブロック */
 .price-box-one {
-  width:50%;
+  width:66.4%;
   height:100%;
   display: flex;
   justify-content: center;
   align-items: center;/* 真ん中にしたい子の1つ親に */
 }
 .price-box-text {
-  width:80%;
+  width:100%;
   height:75%;
 }
 .price-box-text h1{
@@ -370,6 +370,7 @@ text-align: center;
   line-height: 42px;
   margin: 0 auto;
   text-align: center;
+  width:400px;
 }
 .price-box-text h2{
   font-weight: 400;
@@ -381,10 +382,15 @@ text-align: center;
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
+  margin: 0 auto;
+  text-align: center;
+  width:400px;
 }
 .price-box-text-example {
   display: flex;
   padding-bottom:20px;
+  margin: 0 auto;
+  width:400px;
 }
 .price-box-text-example-bell {
   width:100px;
@@ -411,6 +417,7 @@ text-align: center;
   background-size: cover;
 }
 .price-box-text-detail {
+  margin: 0 auto;
   width:400px;
 }
 .price-box-text-detail-syokai {
@@ -418,11 +425,13 @@ text-align: center;
   border:2px solid #000000 ;
   width:100px;
   height:60px;
+  text-align: center;
 }
 .price-box-text-detail-regular {
   float:left;
   width:200px;
   height:60px;
+  text-align: left;
 }
 .price-box-text h4{
   text-align: left;
@@ -436,6 +445,7 @@ text-align: center;
 .price-box-two img{
   width:100%;
   height:100%;
+
 }
 
 
