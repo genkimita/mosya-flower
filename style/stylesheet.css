@@ -549,21 +549,20 @@ text-align: center;
   height:100%;
 }
 .atmosphere-logo {
-  width:100%;
+  width:50%;
   height:100%;
+  padding-top:50px;
 }
 .atmosphere-logo-image {
-  padding-top:50px;
-  padding-bottom:15px;
 }
 .atmospheret-logo img{
   width:136px;
   height:75px;
   pointer-events: none;
-  display: block;
-  margin-left:auto;
-  margin-left:auto;
   z-index:10;
+  display: block;
+  margin: 0 auto;
+  padding-bottom:15px;
 }
 .atmospheret-logo h1{
   font-weight: 400;
@@ -592,7 +591,6 @@ text-align: center;
   width:100%;
   height:100%;
   display:table;
-
 }
 .footer-content-box-link {
   display: table-cell;
