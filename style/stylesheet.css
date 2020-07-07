@@ -302,13 +302,13 @@ text-align: center;
 .about-box-two {
   width:50%;
   height:100%;
-  display:table;
 }
 .about-box-text {
   width:80%;
   height:80%;
-  vertical-align : middle;
-  display: table-cell;
+  display: flex;
+  justify-content: center;
+  text-align: center;/* 真ん中にしたい子の1つ親に */
 }
 .about-box-text-inner {
   width:100%;
