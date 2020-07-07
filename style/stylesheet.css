@@ -250,13 +250,11 @@ body {
 .order-box-two {
   width:50%;
   height:100%;
-  display:table;
 }
 .order-box-pace {
   width:50%;
   height:100%;
-  display: table-cell;
-  vertical-align : middle;
+  margin: 0 auto;
 }
 .order-box-pace-inner {
 text-align: center;
