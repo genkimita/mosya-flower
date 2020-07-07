@@ -18,7 +18,7 @@ body {
   height:840px;
   text-align: center;
   color:#ffffff;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) center / auto 100% no-repeat;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/header-pink.jpg) center / auto 840px no-repeat;
   background-size: cover;
 }
 .header-top {
