@@ -550,13 +550,13 @@ text-align: center;
 .atmosphere-logo {
   width:50%;
   height:100%;
-  padding-top:50px;
+  margin-top:50px;
 }
 .atmosphere-logo-image {
 }
 .atmospheret-logo img{
-  width:136px;
-  height:75px;
+  width:120px;
+  height:90px;
   pointer-events: none;
   z-index:10;
   display: block;
