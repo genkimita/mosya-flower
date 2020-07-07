@@ -572,7 +572,6 @@ text-align: center;
 .atmosphere-logo {
   width:50%;
   height:50%;
-  margin-top:50px;
 }
 .atmosphere-logo-image {
 }
@@ -583,6 +582,7 @@ text-align: center;
   z-index:10;
   display: block;
   margin: 0 auto;
+  padding-top:50px;
   padding-bottom:15px;
 }
 .atmospheret-logo h1{
