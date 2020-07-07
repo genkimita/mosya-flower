@@ -362,13 +362,14 @@ text-align: center;
 }
 .price-box-text {
   width:80%;
-  height:68%;
+  height:75%;
 }
 .price-box-text h1{
   font-weight: 400;
   font-size: 26px;
   line-height: 42px;
   margin: 0 auto;
+  text-align: center;
 }
 .price-box-text h2{
   font-weight: 400;
@@ -434,7 +435,7 @@ text-align: center;
 }
 .price-box-two img{
   width:100%;
-  height:735px;
+  height:100%;
 }
 
 
