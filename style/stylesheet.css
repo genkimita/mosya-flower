@@ -606,6 +606,7 @@ text-align: center;
 .atmosphere-logo {
   width:200px;
   height:200px;
+  display: block;
   padding-top:50px;
   margin: 0 auto;
 }
