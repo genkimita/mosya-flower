@@ -407,6 +407,7 @@ text-align: center;
 .price-box-text-example-bell {
   width:100px;
   height:120px;
+  padding-right:54px;
   /*  */
   position: relative;
 }
@@ -418,7 +419,7 @@ text-align: center;
 .price-box-text-example-bell a{
   width:100%;
   position: absolute;
-  left: 50%; 
+  left: 50%;
   bottom: 10px;
   /*  */
   font-weight: 400;
@@ -428,6 +429,7 @@ text-align: center;
 .price-box-text-example-moon {
   width:100px;
   height:120px;
+  padding-right:54px;
   /*  */
   position: relative;
 }
@@ -449,6 +451,7 @@ text-align: center;
 .price-box-text-example-candle {
   width:100px;
   height:120px;
+  padding-right:54px;
   /*  */
   position: relative;
 }
