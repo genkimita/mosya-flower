@@ -414,7 +414,7 @@ text-align: center;
   width:100px;
   height:120px;
   background: url(image/-moon.jpg) center / 100% 100% no-repeat;
-
+  z-index:10;
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
