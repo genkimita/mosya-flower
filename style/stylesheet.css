@@ -403,8 +403,8 @@ text-align: center;
 .price-box-text-example-bell {
   width:100px;
   height:120px;
-  background: url(image/-bell.jpg) center / auto auto no-repeat;
-  background-size: cover;
+  background: url(image/-bell.jpg) center / auto 100% no-repeat;
+
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
@@ -414,7 +414,7 @@ text-align: center;
   width:100px;
   height:120px;
   background: url(image/-moon.jpg) center / 100% 100% no-repeat;
-  background-size: cover;
+
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
@@ -424,7 +424,7 @@ text-align: center;
   width:100px;
   height:120px;
   background: url(image/-candle.jpg) center / 100% auto no-repeat;
-  background-size: cover;
+
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
