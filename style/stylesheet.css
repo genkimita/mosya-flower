@@ -423,7 +423,7 @@ text-align: center;
 .price-box-text-example-candle {
   width:100px;
   height:120px;
-  background: url(image/-candle.jpg) center / 100% 100% no-repeat;
+  background: url(image/-candle.jpg) center / 100% auto no-repeat;
   background-size: cover;
   font-weight: 400;
   font-size: 13px;
