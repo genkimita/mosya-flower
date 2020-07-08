@@ -598,15 +598,16 @@ text-align: center;
 }
 /* 右ブロック */
 .atmosphere-box-two {
-  width:50%;
+  width:auto;
   height:100%;
 }
 .atmosphere-logo {
   width:200px;
   height:200px;
   padding-top:50px;
+  margin: 0 auto;
 }
-.atmospheret-logo img{
+img.atmosphere-logo-image {
   width:120px;
   height:90px;
   pointer-events: none;
