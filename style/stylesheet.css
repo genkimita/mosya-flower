@@ -404,18 +404,21 @@ img.price-box-text-example-bell {
   height:120px;
   padding-left:27px;
   padding-right:27px;
+  pointer-events: none;
 }
 img.price-box-text-example-moon {
   width:100px;
   height:120px;
   padding-left:27px;
   padding-right:27px;
+  pointer-events: none;
 }
 img.price-box-text-example-candle {
   width:100px;
   height:120px;
   padding-left:27px;
   padding-right:27px;
+  pointer-events: none;
 }
 .price-box-text-detail {
   margin: 0 auto;
