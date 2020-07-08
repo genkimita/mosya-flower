@@ -374,20 +374,20 @@ text-align: center;
 .price-box-text-list li{
   width:400px;
 }
-li.price-box-text-list-one {
+.price-box-text-list-one {
   font-weight: 400;
   font-size: 26px;
   line-height: 42px;
   margin: 0 auto;
   text-align: center;
 }
-li.price-box-text-list-two {
+.price-box-text-list-two {
   font-weight: 400;
   font-size: 14px;
   line-height: 22px;
   margin-left: 0;
 }
-li.price-box-text-list-one {
+.price-box-text-list-three {
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
@@ -400,22 +400,29 @@ li.price-box-text-list-one {
   display: flex;
   padding-bottom:20px;
 }
-img.price-box-text-example-bell {
-  width:100px;
-  height:120px;
-  padding-right:100px;
-  pointer-events: none;
+.price-box-text-example p {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
+  text-align: center;
+  bottom: 10px;
 }
-img.price-box-text-example-moon {
+.price-box-text-example-bell {
   width:100px;
   height:120px;
+  background: url(image/-bell.jpg) left top / auto 100% no-repeat;
   padding-right:100px;
-  pointer-events: none;
 }
-img.price-box-text-example-candle {
+.price-box-text-example-moon {
   width:100px;
   height:120px;
-  pointer-events: none;
+  background: url(image/-moon.jpg) left top / auto 100% no-repeat;
+  padding-right:100px;
+}
+.price-box-text-example-candle {
+  width:100px;
+  height:120px;
+  background: url(image/-candle.jpg) left top / auto 100% no-repeat;
 }
 .price-box-text-detail {
   margin: 0 auto;
