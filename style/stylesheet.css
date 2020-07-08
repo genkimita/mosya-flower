@@ -403,7 +403,7 @@ text-align: center;
 .price-box-text-example-bell {
   width:100px;
   height:120px;
-  background: url(image/-bell.jpg) center / 100% 100% no-repeat;
+  background: url(image/-bell.jpg) center / auto auto no-repeat;
   background-size: cover;
 }
 .price-box-text-example-bell p{
