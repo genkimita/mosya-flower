@@ -604,26 +604,22 @@ text-align: center;
   height:100%;
 }
 .atmosphere-logo {
-  width:50%;
-  height:50%;
-}
-.atmosphere-logo-image {
+  width:200px;
+  height:200px;
+  padding-top:50px;
 }
 .atmospheret-logo img{
   width:120px;
   height:90px;
   pointer-events: none;
-  z-index:10;
-  display: block;
-  margin: 0 auto;
-  padding-top:50px;
-  padding-bottom:15px;
+  
 }
 .atmospheret-logo h1{
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
   text-align: center;
+  margin-top:15px;
 }
 
 
