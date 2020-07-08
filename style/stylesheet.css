@@ -377,30 +377,36 @@ text-align: center;
   width:400px;
 }
 .price-box-text-list-one {
+  margin: 0 auto;
+  /*  */
   font-weight: 400;
   font-size: 26px;
   line-height: 42px;
-  margin: 0 auto;
   text-align: center;
+  padding-bottom:15px;
 }
 .price-box-text-list-two {
+  /*  */
   font-weight: 400;
   font-size: 14px;
   line-height: 22px;
   margin-left: 0;
+  padding-bottom:15px;
 }
 .price-box-text-list-three {
+  /*  */
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
   margin: 0 auto;
   text-align: left;
+  padding-bottom:15px;
 }
 .price-box-text-example {
   width:400px;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom:20px;
+  margin-bottom:20px;
   /*  */
   display: flex;
 }
@@ -475,6 +481,7 @@ text-align: center;
   margin: 0 auto;
   width:400px;
   display: flex;
+  margin-bottom:20px;
 }
 .price-box-text-detail-syokai {
   width:100px;
