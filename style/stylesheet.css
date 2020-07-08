@@ -410,19 +410,20 @@ text-align: center;
 .price-box-text-example-bell {
   width:100px;
   height:120px;
-  background: url(image/-bell.jpg) center / 100% 100% no-repeat;
+  background: url(image/-bell.jpg) center / 100% auto no-repeat;
+  background-size: cover;
   padding-right:100px;
 }
 .price-box-text-example-moon {
   width:100px;
   height:120px;
-  background: url(image/-moon.jpg) center / 100% 100% no-repeat;
+  background: url(image/-moon.jpg) center / 100% auto no-repeat;
   padding-right:100px;
 }
 .price-box-text-example-candle {
   width:100px;
   height:120px;
-  background: url(image/-candle.jpg) center / 100% 100% no-repeat;
+  background: url(image/-candle.jpg) center / 100% auto no-repeat;
 }
 .price-box-text-detail {
   margin: 0 auto;
