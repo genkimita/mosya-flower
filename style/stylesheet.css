@@ -398,40 +398,74 @@ text-align: center;
 }
 .price-box-text-example {
   width:400px;
-  display: flex;
   margin-left: auto;
   margin-right: auto;
   padding-bottom:20px;
-}
-.price-box-text-example a{
-  font-weight: 400;
-  font-size: 13px;
-  line-height: 21px;
-  width:100%;
-  height:100%;
-  bottom: 10px;
-  text-align: center;
+  /*  */
+  display: flex;
 }
 .price-box-text-example-bell {
   width:100px;
   height:120px;
-  display: block;
-  background: url(image/-bell.jpg) center / auto 100% no-repeat;
-  background-size: cover;
+  /*  */
+  position: relative;
+}
+.price-box-text-example-bell img{
+  width:100%;
+  height:100%;
+  pointer-events: none;
+}
+.price-box-text-example-bell a{
+  width:100%;
+  position: absolute;
+  left: 50%; 
+  bottom: 10px;
+  /*  */
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
 }
 .price-box-text-example-moon {
   width:100px;
   height:120px;
-  display: block;
-  background: url(image/-moon.jpg) center / auto 100% no-repeat;
-  background-size: cover;
+  /*  */
+  position: relative;
+}
+.price-box-text-example-moon img {
+  width:100%;
+  height:100%;
+  pointer-events: none;
+}
+.price-box-text-example-moon a {
+  width:100%;
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  /*  */
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
 }
 .price-box-text-example-candle {
   width:100px;
   height:120px;
-  display: block;
-  background: url(image/-candle.jpg) center / auto 100% no-repeat;
-  background-size: cover;
+  /*  */
+  position: relative;
+}
+.price-box-text-example-candle img {
+  width:100%;
+  height:100%;
+  pointer-events: none;
+}
+.price-box-text-example-candle a {
+  width:100%;
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  /*  */
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
 }
 
 .price-box-text-detail {
