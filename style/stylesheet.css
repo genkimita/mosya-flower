@@ -405,8 +405,6 @@ text-align: center;
   height:120px;
   background: url(image/-bell.jpg) center / auto auto no-repeat;
   background-size: cover;
-}
-.price-box-text-example-bell p{
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
@@ -417,8 +415,6 @@ text-align: center;
   height:120px;
   background: url(image/-moon.jpg) center / 100% 100% no-repeat;
   background-size: cover;
-}
-.price-box-text-example-moon p{
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
@@ -429,8 +425,6 @@ text-align: center;
   height:120px;
   background: url(image/-candle.jpg) center / 100% 100% no-repeat;
   background-size: cover;
-}
-.price-box-text-example-candle p{
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
