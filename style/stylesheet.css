@@ -206,6 +206,9 @@ body {
 }
 .order-trial-box-inner {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;/* 真ん中にしたい子の1つ親に */
 }
 .order-box-trial-inner h1{
   font-weight: 400;
@@ -213,7 +216,9 @@ body {
   line-height: 32px;
 }
 .order-box-trial-image {
-  margin: 0 auto;
+  width:200px;
+  height:200px;
+  background: url(image/order-trial-banner.png) center / auto 100% no-repeat;
 }
 img.syokaimuryou {
   width:125px;
@@ -221,15 +226,6 @@ img.syokaimuryou {
   margin: 0 auto;
   display: block;
   pointer-events: none;
-  z-index:10;
-}
-img.syokaimuryou-back {
-  width:200px;
-  height:200px;
-  margin: 0 auto;
-  display: block;
-  pointer-events: none;
-  z-index:9;
 }
 .order-box-trial-inner h2{
   font-weight: 700;
