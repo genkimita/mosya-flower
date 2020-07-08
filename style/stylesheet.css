@@ -410,38 +410,57 @@ text-align: center;
 .price-box-text-example-bell {
   width:100px;
   height:120px;
-  background: url(image/-bell.jpg) left top / auto 100% no-repeat;
+  background: url(image/-bell.jpg) center / 100% 100% no-repeat;
   padding-right:100px;
 }
 .price-box-text-example-moon {
   width:100px;
   height:120px;
-  background: url(image/-moon.jpg) left top / auto 100% no-repeat;
+  background: url(image/-moon.jpg) center / 100% 100% no-repeat;
   padding-right:100px;
 }
 .price-box-text-example-candle {
   width:100px;
   height:120px;
-  background: url(image/-candle.jpg) left top / auto 100% no-repeat;
+  background: url(image/-candle.jpg) center / 100% 100% no-repeat;
 }
 .price-box-text-detail {
   margin: 0 auto;
   width:400px;
+  display: flex;
 }
 .price-box-text-detail-syokai {
-  float:left;
   border:2px solid #000000 ;
   width:100px;
   height:60px;
+  float:left;
   text-align: center;
 }
+.price-box-text-detail-syokai p{
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+}
 .price-box-text-detail-regular {
-  float:left;
   width:200px;
   height:60px;
+  float:left;
   text-align: left;
 }
+.price-box-text-detail-regular h1{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+}
+.price-box-text-detail-regular h1{
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
+}
 .price-box-text h4{
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
   margin: 0 auto;
   width:400px;
   text-align: left;
