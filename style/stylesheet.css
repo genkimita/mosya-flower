@@ -295,8 +295,8 @@ text-align: center;
   align-items: center;/* 真ん中にしたい子の1つ親に */
 }
 .about-box-one img{ /* 空クラス */
-  width:88%;
-  height:88%;
+  width:75%;
+  height:75%;
   display: table-cell;
   vertical-align : middle;
 }
@@ -354,14 +354,14 @@ text-align: center;
 }
 /* 左ブロック */
 .price-box-one {
-  width:66.4%;
+  width:50%;
   height:100%;
   display: flex;
   justify-content: center;
   align-items: center;/* 真ん中にしたい子の1つ親に */
 }
 .price-box-text {
-  width:100%;
+  width:66.4%;
   height:75%;
 }
 .price-box-text h1{
