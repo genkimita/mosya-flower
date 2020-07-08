@@ -212,17 +212,24 @@ body {
   font-size: 20px;
   line-height: 32px;
 }
-.order-box-trial-banner {
-  width:200px;
-  height:200px;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya-flower/master/image/trial-banner.png) center / auto 100% no-repeat;
+.order-box-trial-image {
+  margin: 0 auto;
 }
-.order-box-trial-banner img{
+img.syokaimuryou {
   width:125px;
   height:45px;
   margin: 0 auto;
   display: block;
   pointer-events: none;
+  z-index:10;
+}
+img.syokaimuryou-back {
+  width:200px;
+  height:200px;
+  margin: 0 auto;
+  display: block;
+  pointer-events: none;
+  z-index:9;
 }
 .order-box-trial-inner h2{
   font-weight: 700;
@@ -244,7 +251,7 @@ body {
   font-size: 13px;
   line-height: 21px;
 }
-/* 左ブロック */
+/* 右ブロック */
 .order-box-two {
   width:50%;
   height:100%;
