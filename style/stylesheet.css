@@ -235,7 +235,6 @@ img.order-box-trial-background-image {
 img.syokaimuryou {
   width:125px;
   height:45px;
-  display: block;
   /*  */
   position: absolute;
   left: 0;
@@ -508,7 +507,7 @@ text-align: center;
   display: flex;
   margin-bottom:20px;
 }
-.price-box-text-detail-syokai {
+.price-box-text-detail- {
   width:100px;
   height:60px;
   float:left;
