@@ -196,18 +196,16 @@ body {
   width:50%;
   height:100%;
   background-color:rgb(245, 245, 245);
+  /*  */
+  display: flex;
+  justify-content: center;
+  align-items: center;/* 真ん中にしたい子の1つ親に */
 }
 .order-box-trial {
   width:90%;
   height:75%;
 }
 .order-trial-box-inner {
-  display: block;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
   /*  */
   text-align: center;
 }
@@ -215,11 +213,17 @@ body {
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
+  /*  */
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .order-box-trial-background-image {
   width:200px;
   height:200px;
   background: url(image/order-trial-banner.png) center / auto 100% no-repeat;
+  margin-left: auto;
+  margin-right: auto;
 }
 img.syokaimuryou {
   width:125px;
@@ -233,11 +237,19 @@ img.syokaimuryou {
   font-weight: 700;
   font-size: 15px;
   line-height: 24px;
+  /*  */
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .order-box-trial-inner h3{
   font-weight: 700;
   font-size: 20px;
   line-height: 32px;
+  /*  */
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .order-box-trial-inner h3 span{
   font-weight: 700;
@@ -248,6 +260,10 @@ img.syokaimuryou {
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
+  /*  */
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 /* 右ブロック */
 .order-box-two {
