@@ -757,9 +757,7 @@ p.atmosphere-logo-catchphrase{
 }
 .footer-copyright-text {
   width:100%;
-  top: 0;
-  bottom: 0;
-  margin: auto;
+  bottom: 120px;
   /*  */
   text-align: center;
 }
