@@ -209,13 +209,12 @@ body {
   /*  */
   text-align: center;
 }
-.order-box-trial-inner h1{
+.order-box-trial-txt1{
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
   /*  */
   width:100%;
-  display: block;
   margin-left: auto;
   margin-right: auto;
 }
@@ -234,7 +233,7 @@ img.syokaimuryou {
   right: 0;
   margin: auto;
 }
-.order-box-trial-inner h2{
+.order-box-trial-txt2{
   font-weight: 700;
   font-size: 15px;
   line-height: 24px;
@@ -243,7 +242,7 @@ img.syokaimuryou {
   margin-left: auto;
   margin-right: auto;
 }
-.order-box-trial-inner h3{
+.order-box-trial-txt3{
   font-weight: 700;
   font-size: 20px;
   line-height: 32px;
@@ -252,12 +251,12 @@ img.syokaimuryou {
   margin-left: auto;
   margin-right: auto;
 }
-.order-box-trial-inner h3 span{
+.order-box-trial-txt3 span{
   font-weight: 700;
   font-size: 15px;
   line-height: 24px;
 }
-.order-box-trial-inner h4{
+.order-box-trial-txt4{
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
