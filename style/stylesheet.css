@@ -220,17 +220,24 @@ body {
   font-size: 20px;
   line-height: 32px;
 }
-.order-box-trial-background-image {
+.order-box-trial-image {
   width:200px;
   height:200px;
-  background: url(image/order-trial-banner.png) center / auto 100% no-repeat;
   margin-left: auto;
   margin-right: auto;
+  /*  */
+  position: relative;
+}
+img.order-box-trial-background-image {
+  width:100%;
+  height:100%;
 }
 img.syokaimuryou {
   width:125px;
   height:45px;
   display: block;
+  /*  */
+  position: absolute;
   left: 0;
   right: 0;
   margin: auto;
