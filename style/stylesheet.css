@@ -231,7 +231,8 @@ body {
 img.syokaimuryou {
   width:125px;
   height:45px;
-  margin: 0 auto;
+  margin-left:auto;
+  margin-left:auto;/* imgなどに */
   display: block;
   pointer-events: none;
 }
