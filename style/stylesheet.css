@@ -665,14 +665,11 @@ text-align: center;
   height:100%;
 }
 .atmosphere-logo {
-  width:200px;
-  height:200px;
+  width:300px;
+  height:300px;
+  margin-left: auto;
+  margin-right: auto;
   padding-top:50px;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
 }
 img.atmosphere-logo-image {
   width:120px;
@@ -691,6 +688,7 @@ p.atmosphere-logo-catchphrase{
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
+  text-align: center;
 }
 
 
