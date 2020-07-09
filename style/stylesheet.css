@@ -674,7 +674,7 @@ img.atmosphere-logo-image {
   margin-left:auto;/* imgなどに */
   margin-bottom:15px;
 }
-.atmospheret-logo h1{
+p.atmosphere-logo-catchphrase{
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
