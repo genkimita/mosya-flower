@@ -213,10 +213,9 @@ body {
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
+  text-align: center;
   /*  */
   width:100%;
-  margin-left: auto;
-  margin-right: auto;
 }
 .order-box-trial-background-image {
   width:200px;
@@ -237,19 +236,17 @@ img.syokaimuryou {
   font-weight: 700;
   font-size: 15px;
   line-height: 24px;
+  text-align: center;
   /*  */
   width:100%;
-  margin-left: auto;
-  margin-right: auto;
 }
 .order-box-trial-txt3{
   font-weight: 700;
   font-size: 20px;
   line-height: 32px;
+  text-align: center;
   /*  */
   width:100%;
-  margin-left: auto;
-  margin-right: auto;
 }
 .order-box-trial-txt3 span{
   font-weight: 700;
@@ -260,10 +257,9 @@ img.syokaimuryou {
   font-weight: 400;
   font-size: 13px;
   line-height: 21px;
+  text-align: center;
   /*  */
   width:100%;
-  margin-left: auto;
-  margin-right: auto;
 }
 /* 右ブロック */
 .order-box-two {
