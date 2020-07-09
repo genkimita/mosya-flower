@@ -217,20 +217,18 @@ body {
   font-size: 20px;
   line-height: 32px;
 }
-.order-box-trial-image {
+.order-box-trial-background-image {
   width:200px;
   height:200px;
-  display: block;
   background: url(image/order-trial-banner.png) center / auto 100% no-repeat;
-  background-size: cover;
 }
 img.syokaimuryou {
   width:125px;
   height:45px;
-  margin-left:auto;
-  margin-left:auto;/* imgなどに */
-  display: block;
-  pointer-events: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
 }
 .order-box-trial-inner h2{
   font-weight: 700;
@@ -426,7 +424,6 @@ text-align: center;
 }
 .price-box-text-example-bell p{
   width:100%;
-  position: absolute;
   position: absolute;
   text-align: center;
   bottom: 10px;
