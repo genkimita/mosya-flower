@@ -675,6 +675,8 @@ img.atmosphere-logo-image {
   margin-bottom:15px;
 }
 p.atmosphere-logo-catchphrase{
+  width:100%;
+  /*  */
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
