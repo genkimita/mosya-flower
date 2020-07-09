@@ -678,6 +678,9 @@ img.atmosphere-logo-image {
   width:120px;
   height:90px;
   pointer-events: none;
+}
+.atmosphere-logo-image {
+  width:100%;
   margin-left:auto;
   margin-left:auto;/* imgなどに */
   margin-bottom:15px;
