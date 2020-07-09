@@ -680,8 +680,8 @@ img.atmosphere-logo-image {
 }
 .atmosphere-logo-image {
   width:100%;
-  margin-left:auto;
-  margin-left:auto;/* imgなどに */
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom:15px;
 }
 p.atmosphere-logo-catchphrase{
