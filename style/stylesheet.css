@@ -210,13 +210,15 @@ body {
   text-align: center;
 }
 .order-box-trial-txt1{
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 32px;
   text-align: center;
   /*  */
   width:100%;
   padding-bottom:10px;
+}
+.order-box-trial-txt1 p{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
 }
 .order-box-trial-background-image {
   width:200px;
@@ -234,21 +236,25 @@ img.syokaimuryou {
   margin: auto;
 }
 .order-box-trial-txt2{
-  font-weight: 700;
-  font-size: 15px;
-  line-height: 24px;
   text-align: center;
   /*  */
   width:100%;
 }
-.order-box-trial-txt3{
+.order-box-trial-txt2 p{
   font-weight: 700;
-  font-size: 20px;
-  line-height: 32px;
+  font-size: 15px;
+  line-height: 24px;
+}
+.order-box-trial-txt3{
   text-align: center;
   /*  */
   width:100%;
   padding-bottom:30px;
+}
+.order-box-trial-txt3 p{
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 32px;
 }
 .order-box-trial-txt3 span{
   font-weight: 700;
@@ -256,12 +262,14 @@ img.syokaimuryou {
   line-height: 24px;
 }
 .order-box-trial-txt4{
-  font-weight: 400;
-  font-size: 13px;
-  line-height: 21px;
   text-align: center;
   /*  */
   width:100%;
+}
+.order-box-trial-txt4 p{
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
 }
 /* 右ブロック */
 .order-box-two {
