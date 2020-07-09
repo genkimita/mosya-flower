@@ -671,6 +671,10 @@ img.atmosphere-logo-image {
   width:120px;
   height:90px;
   pointer-events: none;
+  /* 位置 */
+  display: block;
+  margin-left:auto;
+  margin-left:auto;/* imgなどに */
 }
 .atmosphere-logo-image {
   width:100%;
