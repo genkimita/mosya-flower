@@ -200,17 +200,16 @@ body {
 .order-box-trial {
   width:90%;
   height:75%;
+}
+.order-trial-box-inner {
+  display: block;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
   margin: auto;
-}
-.order-trial-box-inner {
+  /*  */
   text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;/* 真ん中にしたい子の1つ親に */
 }
 .order-box-trial-inner h1{
   font-weight: 400;
@@ -226,7 +225,6 @@ img.syokaimuryou {
   width:125px;
   height:45px;
   display: block;
-  position: absolute;
   left: 0;
   right: 0;
   margin: auto;
